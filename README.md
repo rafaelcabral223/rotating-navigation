@@ -9,4 +9,4 @@ Esse projeto é um menu de navegação
 | :rocket: URL         | https://rotatinggnavigation.netlify.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://user-images.githubusercontent.com/72042885/206816921-95bde603-b673-4a5e-bc85-73f5b891ee08.JPG#vitrinedev)
+![](https://user-images.githubusercontent.com/72042885/208783472-d2f46b9c-726e-4d29-9ff5-d8d9955ef031.JPG#vitrinedev)
